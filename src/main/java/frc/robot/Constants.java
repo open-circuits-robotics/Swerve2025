@@ -1,6 +1,8 @@
 package frc.robot;
 
 public class Constants {
-    //in order: front left x & y, front right, back left, back right.
-    public static final double[] swerveOffsets = {2, 2, 2, -2, -2, -2, -2, 2};
+    public static final double rotationGearRatio = 5;
+    public static final double driveGearRatio = 5;
+    public static final double wheelDiameter = 5;
+
 }

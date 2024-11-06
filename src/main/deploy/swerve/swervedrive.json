@@ -5,7 +5,7 @@
     "imu":{
         "type": "ADXRS450",
         "id":0,
-        "canbus":"canivore"
+        "canbus":"rio"
     },
     "invertedIMU": false,
     "modules":[
